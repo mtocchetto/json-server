@@ -5,5 +5,10 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "developers": [
+    { "id": 1, name: "Marcelo Tocchetto" },
+    { "id": 2, name: "Developer 2" },
+    { "id": 3, name: "Developer 3" }
+  ]    
 }
