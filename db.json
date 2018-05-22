@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "restservices/test-drive/cdc/pessoajuridicanfe.ashx": [
+    { "name":"Pessoa 1", "country": {"code":"BR"} }
+  ]
 }
