@@ -10,5 +10,8 @@
     { "id": 1, "name": "Marcelo Tocchetto" },
     { "id": 2, "name": "Developer 2" },
     { "id": 3, "name": "Developer 3" }
-  ]    
+  ],
+  "restservices/test-drive/cdc/pessoajuridicanfe.ashx": [
+    { "name":"Pessoa 1", "country": {"code":"BR"} }
+  ]
 }
