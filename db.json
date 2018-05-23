@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "restservices/test-drive/cdc/pessoajuridicanfe.ashx": [
+  "restservices/test-drive/cdc/pessoajuridicanfe": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 2 }
   ]  
